@@ -1,6 +1,6 @@
-![CAE](https://github.com/cae-test/application-test-application3/blob/master/microservice-test-microservice3/img/logo.png)  
+![CAE](https://github.com/CAE-Community-Application-Editor/microservice-ma-hossner-image-service/blob/master/img/logo.png)  
 
-test-microservice3
+ma-hossner-image-service
 ===================
 
 

@@ -1,4 +1,4 @@
-<project name="test-microservice3" default="all" basedir="."
+<project name="ma-hossner-image-service" default="all" basedir="."
   xmlns:ivy="antlib:org.apache.ivy.ant">
 
   <property file="etc/ant_configuration/user.properties" />
